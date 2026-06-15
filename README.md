@@ -72,3 +72,6 @@ Each CAB instance folder contains:
 ## Reproducibility
 
 Reference optimum values are read from `CAB_reference_optima.csv` only for reporting gaps. They are not provided to the language model during solution construction.
+
+## Citation
+Please cite the accompanying paper when it becomes available.
