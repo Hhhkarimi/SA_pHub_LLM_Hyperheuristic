@@ -1,0 +1,14 @@
+{
+  "dataset": "CAB25",
+  "source": "CAB25 Civil Aeronautics Board benchmark subset, first n nodes",
+  "n": 25,
+  "node_rule": "First n nodes of CAB25, as commonly used for CAB10, CAB15, CAB20, and CAB25; CAB5 is supplied as a small teaching/test subset.",
+  "flows_csv": "normalized flows with sum(flow)=1 for compatibility with common CAB objective values",
+  "flows_raw_csv": "original CAB flow values",
+  "distances_csv": "CAB distance matrix scaled by 1/10000",
+  "default_cost_factors": {
+    "collection": 1,
+    "transfer": "alpha",
+    "distribution": 1
+  }
+}

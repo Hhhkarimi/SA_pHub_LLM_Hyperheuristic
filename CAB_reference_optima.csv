@@ -1,0 +1,91 @@
+instance,n,p,alpha,optimal_objective,objective_scale,reference,reference_table,note
+CAB5,5,1,0.2,766.256857,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,1,0.4,766.256857,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,1,0.6,766.256857,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,1,0.8,766.256857,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,1,1.0,766.256857,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,2,0.2,445.730412,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,2,0.4,541.79784,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,2,0.6,607.19505,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,2,0.8,655.222328,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,2,1.0,703.249607,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,3,0.2,290.739115,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,3,0.4,411.638173,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,3,0.6,514.311464,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,3,0.8,598.92492,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,3,1.0,676.342721,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,4,0.2,183.522035,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,4,0.4,301.692334,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,4,0.6,419.862632,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,4,0.8,532.373918,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,4,1.0,637.34641,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,5,0.2,122.140771,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,5,0.4,244.281542,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,5,0.6,366.422313,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,5,0.8,488.563084,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB5,5,5,1.0,610.703855,CAB normalized-flow objective,Exact enumeration generated with package,not a literature table,CAB5 teaching subset; not extracted from article
+CAB10,10,2,0.2,615.99,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,2,0.4,674.31,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,2,0.6,732.63,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,2,0.8,790.94,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,2,1.0,835.81,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,3,0.2,491.93,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,3,0.4,567.91,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,3,0.6,643.89,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,3,0.8,716.98,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,3,1.0,776.68,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,4,0.2,395.13,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,4,0.4,493.79,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,4,0.6,577.83,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,4,0.8,661.42,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB10,10,4,1.0,736.26,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,2,0.2,981.28,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,2,0.4,1062.63,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,2,0.6,1143.97,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,2,0.8,1190.77,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,2,1.0,1221.92,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,3,0.2,799.97,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,3,0.4,905.1,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,3,0.6,1009.93,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,3,0.8,1099.51,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,3,1.0,1168.68,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,4,0.2,639.78,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,4,0.4,779.71,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,4,0.6,910.21,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,4,0.8,1026.52,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB15,15,4,1.0,1118.23,CAB normalized-flow objective,Wang and Ting (2009),Table 1,published optimum
+CAB20,20,2,0.2,979.09,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,2,0.4,1042.57,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,2,0.6,1106.04,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,2,0.8,1169.52,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,2,1.0,1210.08,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,3,0.2,724.54,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,3,0.4,847.77,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,3,0.6,971.0,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,3,0.8,1091.05,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,3,1.0,1156.07,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,4,0.2,577.62,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,4,0.4,727.1,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,4,0.6,869.16,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,4,0.8,1008.49,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB20,20,4,1.0,1111.02,CAB normalized-flow objective,Wang and Ting (2009),Table 2,published optimum
+CAB25,25,2,0.2,1000.91,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,2,0.4,1101.63,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,2,0.6,1201.21,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,2,0.8,1294.08,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,2,1.0,1359.19,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,3,0.2,767.35,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,3,0.4,901.7,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,3,0.6,1033.56,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,3,0.8,1158.83,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,3,1.0,1256.63,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,4,0.2,629.63,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,4,0.4,787.52,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,4,0.6,939.21,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,4,0.8,1087.66,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,4,1.0,1211.23,CAB normalized-flow objective,Wang and Ting (2009); Espejo et al. (2023),Wang & Ting Table 2 / Espejo Table S.1,published optimum
+CAB25,25,5,0.2,538.37,CAB normalized-flow objective,Espejo et al. (2023),Table S.1,published optimum
+CAB25,25,5,0.4,707.69,CAB normalized-flow objective,Espejo et al. (2023),Table S.1,published optimum
+CAB25,25,5,0.6,876.59,CAB normalized-flow objective,Espejo et al. (2023),Table S.1,published optimum
+CAB25,25,5,0.8,1034.1,CAB normalized-flow objective,Espejo et al. (2023),Table S.1,published optimum
+CAB25,25,5,1.0,1173.24,CAB normalized-flow objective,Espejo et al. (2023),Table S.1,published optimum

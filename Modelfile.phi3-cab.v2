@@ -1,0 +1,19 @@
+FROM ./Phi-3-mini-4k-instruct-q4.gguf
+
+TEMPLATE """{{ if .System }}<|system|>
+{{ .System }}<|end|>
+{{ end }}{{ if .Prompt }}<|user|>
+{{ .Prompt }}<|end|>
+{{ end }}<|assistant|>
+{{ .Response }}<|end|>"""
+
+PARAMETER temperature 0.1
+PARAMETER top_p 0.9
+PARAMETER num_ctx 2048
+PARAMETER num_predict 96
+PARAMETER stop "<|end|>"
+PARAMETER stop "<|user|>"
+PARAMETER stop "<|system|>"
+PARAMETER stop "<|assistant|>"
+
+SYSTEM "Return only one small JSON object. No markdown. No explanation unless a JSON field asks for it."
